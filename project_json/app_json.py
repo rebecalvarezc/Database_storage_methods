@@ -9,7 +9,7 @@ USER_OPTIONS = '''
 - Introduce "d" to remove a book from storage.
 - Introduce "q" para stop the program.
 
-Your option: --> '''  # formato menú
+Your option: --> '''
 
 
 def menu():
