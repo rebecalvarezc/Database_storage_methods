@@ -1,4 +1,4 @@
- # Creating & manipulation databases with python
+ # Creating & manipulating databases with python
 
 This program creates a database filled with books introduced by the user.
 
